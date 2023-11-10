@@ -1,9 +1,9 @@
 # Unsupervised-HAR
-Human Activity Recognition is a field in computer science and artificial intelligence that focuses on the development of algorithms and models to identify and classify human activities based on sensor data.  
-Traditional approaches to Human Activity Recognition often involve supervised learning, where the model is trained on labeled datasets, and it learns to recognize activities based on the provided labels. However, unsupervised learning is an alternative approach where the algorithm tries to identify patterns and groupings in the data without predefined labels.
+* Human Activity Recognition is a field in computer science and artificial intelligence that focuses on the development of algorithms and models to identify and classify human activities based on sensor data.  
+* Traditional approaches to Human Activity Recognition often involve supervised learning, where the model is trained on labeled datasets, and it learns to recognize activities based on the provided labels. However, unsupervised learning is an alternative approach where the algorithm tries to identify patterns and groupings in the data without predefined labels.
 
 ## Dataset Description
-• Each of the 19 activities is performed by eight subjects (4 female, 4 male, between the ages 20 and 30) for 5 minutes. Total signal duration is 5 minutes for each activity of each subject. The subjects are asked to perform the activities in their own style and were not restricted on how the activities should be performed. For this reason, there are inter-subject variations in the speeds and amplitudes of some activities. The activities are performed at the Bilkent University Sports Hall, in the Electrical and Electronics Engineering Building, and in a flat outdoor area on campus. Sensor units are calibrated to acquire data at 25 Hz sampling frequency.  
+* Each of the 19 activities is performed by eight subjects (4 female, 4 male, between the ages 20 and 30) for 5 minutes. Total signal duration is 5 minutes for each activity of each subject. The subjects are asked to perform the activities in their own style and were not restricted on how the activities should be performed. For this reason, there are inter-subject variations in the speeds and amplitudes of some activities. The activities are performed at the Bilkent University Sports Hall, in the Electrical and Electronics Engineering Building, and in a flat outdoor area on campus. Sensor units are calibrated to acquire data at 25 Hz sampling frequency.  
 The 19 activities are:  
 1. Sitting (a01)
 2. Standing (a02)
@@ -36,5 +36,5 @@ Applied KNN on this transformed data.
 
 ## Data
 
-Training data: [Link]()  
-Testing data: [Link]()  
+Training data: [Link](https://drive.google.com/file/d/1lVcrsBuozkQnYOTnXKIERJMbQqz-xHSc/view)  
+Testing data: [Link](https://drive.google.com/file/d/1rfs_g5WZjh9HTU5SJse7k5v-1IAszFiF/view)  
