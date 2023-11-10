@@ -32,7 +32,12 @@ T-xacc, T-yacc, T-zacc, T-xgyro, T-ygyro, T-zgyro, T-xmag, T-ymag, T-zmag, RA-xa
 
 ## Task Performed
 
-Applied KNN on this transformed data.
+* Applied KNN on after transforming the time series data.
+
+
+## Results
+
+* Got an accuracy of 60.311% on the test data.
 
 ## Data
 
